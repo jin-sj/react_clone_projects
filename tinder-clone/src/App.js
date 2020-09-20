@@ -11,8 +11,6 @@ function App() {
       <Header />
       <TinderCards />
       <SwipeButtons />
-      {/* TinderCards */}
-      {/* SwipeButtons */}
     </div>
   );
 }

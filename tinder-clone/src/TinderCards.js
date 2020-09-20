@@ -5,12 +5,13 @@ import "./TinderCards.css";
 function TinderCards() {
   const [people, setPeople] = useState([
     {
-      name: "Elon Musk",
-      url: "https://www.gstatic.com/tv/thumb/persons/487130/487130_v9_ba.jpg",
+      name: "Suji",
+      url: "https://img.hankyung.com/photo/201910/BF.20832019.1.jpg",
     },
     {
-      name: "Jeff Bezos",
-      url: "https://www.gstatic.com/tv/thumb/persons/532529/532529_v9_bb.jpg",
+      name: "Sana",
+      url:
+        "https://i.pinimg.com/736x/83/90/82/839082ad7bbd988d66540275ac11bba1.jpg",
     },
   ]);
 
